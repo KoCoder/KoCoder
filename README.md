@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KoCoder
-- 👀 I’m interested in any Programming language
+- 👀 I’m interested in any Programming languages
 - 🌱 I’m currently learning Flutter AND React
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me Probably over my Email I guess
