@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KoCoder
 - 👀 I’m interested in any Programming languages
 - 🌱 I’m currently learning Flutter AND React
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on learning new Programming languages
 - 📫 How to reach me Probably over my Email I guess
 
 <!---
